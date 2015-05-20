@@ -1,3 +1,5 @@
+http://zetcode.com/gui/pyqt5/firstprograms/
+
 Orden cronológico de los programas
 
 1. unaventana.py
