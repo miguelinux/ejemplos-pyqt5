@@ -7,4 +7,5 @@ Orden cronológico de los programas
 3. tooltip.py
 4. botonsalir.py
 5. messagebox.py
+6. ventanacentro.py
 
