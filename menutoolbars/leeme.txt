@@ -1,0 +1,6 @@
+http://zetcode.com/gui/pyqt5/menustoolbars/
+
+Orden cronológico de los programas
+
+1. statusbar.py
+
